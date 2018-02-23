@@ -1,13 +1,2 @@
-server:
-  port: 8060
-spring:
-  application:  
-    name: spring-cloud-config-server #指定服务名
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/wuheng3803/wh.git
-          username:
-          password: 
+hhh: 582431
         
